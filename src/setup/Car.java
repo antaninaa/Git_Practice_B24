@@ -1,0 +1,10 @@
+package setup;
+
+public class Car {
+
+    // this is car class in the master branch
+
+    // we will have conflict
+
+    // bc there is different text in different branches for car
+}
