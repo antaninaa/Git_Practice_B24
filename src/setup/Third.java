@@ -13,6 +13,11 @@ public class Third {
         System.out.println("method b");
     }
 
+    public void m(String s) {
+
+        System.out.println("method c");
+    }
+
 
 
 
